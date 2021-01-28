@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey I'm Sean 👋
 
-<!--
-**seanmajorpayne/seanmajorpayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer mainly working with Python and Flask. I'm currently working on
+the [Climate Mind App](https://app.climatemind.org) which is now in Beta release.
 
-Here are some ideas to get you started:
+Outside of coding, I produce short documentaries, practice photography and make hip-hop
+beats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+
+
+
+
