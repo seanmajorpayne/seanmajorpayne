@@ -6,7 +6,6 @@ I'm a backend developer mainly working with Python and Flask. I'm currently work
 the [Climate Mind App](https://app.climatemind.org) which is now in Beta release.
 
 Outside of coding, I produce short documentaries and take photographs of nature.
-beats.
 
 ### Technologies and Tools
 
