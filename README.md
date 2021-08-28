@@ -1,9 +1,9 @@
 ## Hey, I'm Sean Payne.
 
-Passionate about climate, privacy, and security issues.
-
 I'm a backend developer mainly working with Python and Flask. I'm currently working on
 the [Climate Mind App](https://app.climatemind.org) which is now in Beta release.
+
+I'm also building a machine learning API from scratch that mimics TensorFlow.
 
 Outside of coding, I produce short documentaries and take photographs of nature.
 
