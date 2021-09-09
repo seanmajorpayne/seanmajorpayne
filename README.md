@@ -1,6 +1,8 @@
 ## Hey, I'm Sean Payne.
 
-Passionate about machine learning. Love picking up new tools. C++ & Python are fun.
+Passionate about machine learning.\
+Love picking up new tools.\
+C++ & Python are fun.\
 Currently making an impact on climate change, fixing bugs in Roller Coaster Tycoon, and creating tools for Flask/Dash developers.
 
 ### Technologies and Tools
