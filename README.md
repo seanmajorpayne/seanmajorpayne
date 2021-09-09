@@ -1,16 +1,13 @@
 ## Hey, I'm Sean Payne.
 
-I'm a backend developer mainly working with Python and Flask. I'm currently working on
-the [Climate Mind App](https://app.climatemind.org) which is now in Beta release.
-
-I'm also building a machine learning API from scratch that mimics TensorFlow.
-
-Outside of coding, I produce short documentaries and take photographs of nature.
+Passionate about machine learning. Love picking up new tools. C++ & Python are fun.
+Currently making an impact on climate change, fixing bugs in Roller Coaster Tycoon, and creating tools for Flask/Dash developers.
 
 ### Technologies and Tools
 
 Primary:
 
+![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
