@@ -1,7 +1,7 @@
 ## Hey, I'm Sean Payne.
 
 I am a senior software engineer at Autify, working on automating software testing for mobile apps.<br/>
-C++, C, Ruby, and Python are fun. Go & Rust are on my radar.<br/>
+Go is my favorite language, but I also enjoy C++, Python, and C.<br/>
 Currently making an impact on climate change, fixing bugs in Roller Coaster Tycoon, and creating tools for Flask/Dash developers.
 
 ### Technologies and Tools
