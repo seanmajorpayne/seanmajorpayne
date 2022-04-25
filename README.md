@@ -8,6 +8,7 @@ Currently making an impact on climate change, fixing bugs in Roller Coaster Tyco
 
 Primary:
 
+![](https://img.shields.io/badge/Code-Go-informational.svg?style=flat&logo=go%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational.svg?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational.svg?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
