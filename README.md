@@ -2,7 +2,8 @@
 
 I am a senior software engineer at Autify, working on automating software testing for mobile apps.<br/>
 Go is my favorite language, but I also enjoy C++, Python, and C.<br/>
-Currently making an impact on climate change, fixing bugs in Roller Coaster Tycoon, and creating tools for Flask/Dash developers.
+
+I've contributed to many OSS projects big and small. From fixing bugs in the open source reimplementation of Roller Coaster Tycoon, to creating an educational app about climate change. My biggest priority in development is creating easy to read, maintainable code.
 
 ### Technologies and Tools
 
