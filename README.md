@@ -1,6 +1,6 @@
 ## Hey, I'm Sean Payne.
 
-I am Engineer #2 at Braid.<br/>
+I am a Senior Software Engineer at LiNKX.<br/>
 I'm currently working with Rust and it's quickly becoming my favorite language. In the past, I've worked with Go (pretty solid) and Ruby-On-Rails (pretty awful). I've also worked with Python, C++, C, and once upon a time, Java.<br/>
 
 I'm working with my friend @morganhein on a (soon to be) open-source IMAP/POP3/SMTP email management tool which is meant to fill a gap in servicing protonmail.
