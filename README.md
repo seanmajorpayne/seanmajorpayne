@@ -1,11 +1,8 @@
 ## Hey, I'm Sean Payne.
 
 I am a Senior Software Engineer at LiNKX.<br/>
-I'm currently working with Rust and it's quickly becoming my favorite language. In the past, I've worked with Go (pretty solid) and Ruby-On-Rails (pretty awful). I've also worked with Python, C++, C, and once upon a time, Java.<br/>
-
-I'm working with my friend @morganhein on a (soon to be) open-source IMAP/POP3/SMTP email management tool which is meant to fill a gap in servicing protonmail.
-
-Previously, I've fixed bugs in the open source reimplementation of Roller Coaster Tycoon and to co-created an educational app about climate change. My biggest priority in development is creating easy to read, maintainable code.
+I love Rust.<br/>
+I'm currently spending my freetime learning OpenGL.
 
 ### Technologies and Tools
 
